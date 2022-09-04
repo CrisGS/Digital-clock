@@ -1,0 +1,24 @@
+#clock {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    font-family: cursive;
+    font-size: 200px;
+    font-weight: bolder;
+}
+
+#changeColor {
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    font-family: cursive;
+    font-size: xx-large;
+    border-radius: 20px;
+    font-weight: bolder;
+    background-image: linear-gradient(grey, darkgrey);
+    border-style: hidden;
+}
